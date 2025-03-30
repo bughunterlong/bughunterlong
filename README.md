@@ -30,5 +30,18 @@
 ### 👉 Testing technique
 ![TestRail](https://img.shields.io/badge/Smoke%20Testing-9cf?style=for-the-badge)
 ![TestRail](https://img.shields.io/badge/Regression%20Testing-9cf?style=for-the-badge)
+![TestRail](https://img.shields.io/badge/Web%20Testing-9cf?style=for-the-badge)
+![TestRail](https://img.shields.io/badge/Mobile%20Testing-9cf?style=for-the-badge)
+![TestRail](https://img.shields.io/badge/Security%20Testing-9cf?style=for-the-badge)
+
+### 👉 Testing tool
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon_Studio-blue?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+
 
 
